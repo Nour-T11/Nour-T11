@@ -1,7 +1,7 @@
 <img align="right" src="https://tenor.com/fr/view/maxwell-cat-gif-10523016553059324224" alt="Coding cat" width="380" height="380">
-🌹 Roses are red, violets are blue,    
-unexpected `"{"` on line 32.    
-There is no line 32. 😀💔    
+🌹 Roses are red, violets are blue,<br>
+unexpected `"{"` on line 32.<br>
+There is no line 32. 😀💔<br>
 What the hell am I supposed to do? 🥲    
 
 # HELLOOO!! 👋
