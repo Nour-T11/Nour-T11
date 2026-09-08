@@ -1,16 +1,49 @@
-## Hi there 👋
+<img align="right" src="https://media1.tenor.com/m/Z5wTNShAZnsAAAAd/cat-dance.gif" alt="Coding cat" width="380" height="380">
+🌹 Roses are red, violets are blue,
+unexpected `"{"` on line 32.
+There is no line 32. 😀💔
+What the hell am I supposed to do? 🥲
 
-<!--
-**Nour-T11/Nour-T11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HELLOOO!! 👋
 
-Here are some ideas to get you started:
+A high school student interested in **programming, problem solving, and computer science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and improving my skills through **competitive programming, coding practice, and personal projects**.
+
+### 💻 What I'm learning
+
+* 🐍 Python
+* ⚙️ C++
+* 🧩 Algorithms & Problem Solving
+* 🏆 Competitive Programming
+* 🌱 Git & GitHub
+
+### 🏆 Competitive Programming
+
+I practice programming problems on **Codeforces** to improve my:
+
+* Problem-solving skills
+* Algorithms and data structures
+* Programming fundamentals
+* Ability to think about efficient solutions
+
+### 🚀 What I'm working on
+
+* Solving Codeforces problems
+* Improving my Python skills
+* Learning more about algorithms
+* Starting and building programming projects
+* Exploring computer science
+
+### 📚 Currently
+
+> Learning by solving problems, making mistakes, and building things.
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
