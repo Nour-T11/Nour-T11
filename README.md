@@ -1,4 +1,3 @@
-<img align="right" src="https://media1.tenor.com/m/Z5wTNShAZnsAAAAd/cat-dance.gif" alt="Coding cat" width="380" height="380">
 🌹 Roses are red, violets are blue,
 unexpected `"{"` on line 32.
 There is no line 32. 😀💔
@@ -46,4 +45,3 @@ I practice programming problems on **Codeforces** to improve my:
 ⭐ Thanks for visiting my profile!
 
 </div>
-
