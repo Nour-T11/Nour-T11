@@ -1,4 +1,8 @@
-<img align="right" src="https://tenor.com/fr/view/maxwell-cat-gif-10523016553059324224" alt="Coding cat" width="380" height="380">
+<img align="right"
+     src="https://github.com/user-attachments/assets/894b6c55-e34b-4165-b01a-82e3004861d6"
+     alt="CATTSS"
+     width="380"
+     height="380">
 🌹 Roses are red, violets are blue,<br>
 unexpected `"{"` on line 32.<br>
 There is no line 32. 😀💔<br>
